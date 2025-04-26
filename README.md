@@ -14,7 +14,7 @@
 > <hr>
 >
 > Os links fornecidos, quando não hospedados diretamente neste repositório, referem-se a arquivos armazenados em plataformas de nuvem de nossa curadoria ou em sites oficiais.<br>
-> A saber:<br><br>
+> A saber:<br>
 > - Arquivos de **mods** serão exclusivamente referenciados a partir de plataformas amplamente reconhecidas, como:
 >    - **[CurseForge](https://www.curseforge.com/minecraft/)**
 >    - **[Modrinth](https://modrinth.com/)**
